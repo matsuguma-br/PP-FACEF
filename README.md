@@ -1,2 +1,2 @@
-# Paradigmas-de-Programa-o---FACEF
+# Paradigmas de Programação - FACEF
 Matéria de PP - FACEF
